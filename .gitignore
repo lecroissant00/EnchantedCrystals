@@ -1,0 +1,28 @@
+# Gradle
+.gradle
+build/
+gradle.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# Minecraft
+run/
+crash-reports/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Project
+*.log
+out/
